@@ -2,7 +2,7 @@
 1. 👷 I am a Software Engineer, passionate about leveraging technology to drive innovation and efficiency.
 2. 💡 Fun fact: I'm a graphic designer, I have extensive experience designing logos, branding campaigns, websites, and more. Check out some of my works here <a href="http://www.behance.net/topseen">Behance Portfolio</a>
 3. 😊 I’m looking for opportunities to help contribute to open source projects.
-4. 💼 Job interests: Software Engineer, Full Stack Engineer (Frontend & Backend)
+4. 💼 Job interests: Software Engineer, Full Stack Engineer (Frontend & Backend).
 
 ## 🌐 Connect with me
 - 💼 LinkedIn: https://www.linkedin.com/in/temitope-abodunrin-14008b272/
@@ -20,20 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Topseen-a&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topseen-a&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Topseen-a&theme=tokyonight" />
 </p>
 
 
