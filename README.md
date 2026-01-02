@@ -11,7 +11,6 @@
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/topseen_a)
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=x)](https://x.com/topseen_a)
-[![Portfolio](https://img.shields.io/badge/Website-green?logo=google-chrome)](https://yourwebsite.com)
 
 ## 🛠️ Tech Stack
 <p align="left">
