@@ -25,17 +25,14 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <!-- GitHub general stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Topseen-a&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="left">
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topseen-a&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="left">
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Topseen-a&theme=tokyonight" />
 </p>
 
