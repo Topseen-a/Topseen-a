@@ -3,7 +3,7 @@
 2. 💡 Fun fact: I'm a graphic designer, I have extensive experience designing logos, branding campaigns, websites, and more. Check out some of my works here <a href="http://www.behance.net/topseen">Behance Portfolio</a>
 3. 😊 I’m looking for opportunities to help contribute to open source projects.
 4. 💼 Job interests: Software Engineer, Full Stack Engineer (Frontend & Backend).
-5. 📫 You can contact me by emailing abodunrintopseen@gmail.com.
+5. 📫 You can contact me by emailing abodunrintopseen@gmail.com
 
 ## 🛠️ Tech Stack
 
